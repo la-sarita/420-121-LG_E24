@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\MethodesBoucles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F28ED34E-F2CC-477A-ADC0-13251EC93EE7}|Methodes\\Methodes.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\methodesboucles\\methodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28ED34E-F2CC-477A-ADC0-13251EC93EE7}|Methodes\\Methodes.csproj|solutionrelative:methodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\MethodesBoucles\\Methodes\\Program.cs",
+              "RelativeDocumentMoniker": "Methodes\\Program.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\MethodesBoucles\\Methodes\\Program.cs",
+              "RelativeToolTip": "Methodes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:37:02.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
