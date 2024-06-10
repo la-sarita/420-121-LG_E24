@@ -1,0 +1,7 @@
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Evals\Laboratoires_notés\Lab_1\LaboNote1\LaboNote1\bin\Debug\LaboNote1.exe.config
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Evals\Laboratoires_notés\Lab_1\LaboNote1\LaboNote1\bin\Debug\LaboNote1.exe
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Evals\Laboratoires_notés\Lab_1\LaboNote1\LaboNote1\bin\Debug\LaboNote1.pdb
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Evals\Laboratoires_notés\Lab_1\LaboNote1\LaboNote1\obj\Debug\LaboNote1.csproj.AssemblyReference.cache
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Evals\Laboratoires_notés\Lab_1\LaboNote1\LaboNote1\obj\Debug\LaboNote1.csproj.CoreCompileInputs.cache
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Evals\Laboratoires_notés\Lab_1\LaboNote1\LaboNote1\obj\Debug\LaboNote1.exe
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Evals\Laboratoires_notés\Lab_1\LaboNote1\LaboNote1\obj\Debug\LaboNote1.pdb
