@@ -1,0 +1,7 @@
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_recap\4_recap\bin\Debug\4_recap.exe.config
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_recap\4_recap\bin\Debug\4_recap.exe
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_recap\4_recap\bin\Debug\4_recap.pdb
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_recap\4_recap\obj\Debug\4_recap.csproj.AssemblyReference.cache
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_recap\4_recap\obj\Debug\4_recap.csproj.CoreCompileInputs.cache
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_recap\4_recap\obj\Debug\4_recap.exe
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_recap\4_recap\obj\Debug\4_recap.pdb

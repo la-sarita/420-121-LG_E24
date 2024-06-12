@@ -1,0 +1,7 @@
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_Tableaux\4_Tableaux\bin\Debug\4_Tableaux.exe.config
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_Tableaux\4_Tableaux\bin\Debug\4_Tableaux.exe
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_Tableaux\4_Tableaux\bin\Debug\4_Tableaux.pdb
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_Tableaux\4_Tableaux\obj\Debug\4_Tableaux.csproj.AssemblyReference.cache
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_Tableaux\4_Tableaux\obj\Debug\4_Tableaux.csproj.CoreCompileInputs.cache
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_Tableaux\4_Tableaux\obj\Debug\4_Tableaux.exe
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\4_Tableaux\4_Tableaux\obj\Debug\4_Tableaux.pdb
