@@ -11,6 +11,7 @@ namespace _5_sol_exos_lab_tab
         static void Main(string[] args)
         {
             int[] nombres = { 1, 2, 3, 4, 5, 3, 8, 5, 12, 3 };
+            Console.WriteLine(nombres);
             // Exercice 12
             Console.WriteLine("CalculerSommeTableau : " + CalculerSommeTableau(nombres));
             // Exercice 13

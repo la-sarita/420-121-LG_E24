@@ -1,0 +1,7 @@
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\6_collections\6_collections\bin\Debug\6_collections.exe.config
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\6_collections\6_collections\bin\Debug\6_collections.exe
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\6_collections\6_collections\bin\Debug\6_collections.pdb
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\6_collections\6_collections\obj\Debug\6_collections.csproj.AssemblyReference.cache
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\6_collections\6_collections\obj\Debug\6_collections.csproj.CoreCompileInputs.cache
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\6_collections\6_collections\obj\Debug\6_collections.exe
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\6_collections\6_collections\obj\Debug\6_collections.pdb
