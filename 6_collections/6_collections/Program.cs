@@ -12,8 +12,10 @@ namespace _6_collections
         static void Main(string[] args)
         {
             //DemoListe();
-            DemoDictionnaire();
-
+            // DemoDictionnaire();
+            //InsererElements();
+            int[] nombres = { 5, 6, 5, 2, 1, 5, 4, 3, 2, 5 };
+            AfficherValeurPlusFrequante(nombres);
         }
 
         public static void DemoListe()
@@ -132,7 +134,7 @@ namespace _6_collections
                 Console.WriteLine("Le pays n'existe pas dans ce dictionnaire");
             }
 
-            for(int i = 0; i < cities.Count; i++)
+            for (int i = 0; i < cities.Count; i++)
             {
                 var elem = cities.ElementAt(i);
                 Console.WriteLine("Les grandes villes de {0} sont : {1}", elem.Key, elem.Value);
@@ -141,7 +143,7 @@ namespace _6_collections
             cities["UK"] = "Liverpool, Bristol";
             Console.WriteLine(cities["UK"]);
             //Console.WriteLine(cities["France"]); // cette ligne lance une exception car la clé
-                                                   //"France" n'existe pas encore
+            //"France" n'existe pas encore
             cities["France"] = "Paris, Lion";
             Console.WriteLine(cities["France"]);
             // Vérifier que la clé exsiste avant d'accéder à
@@ -150,7 +152,7 @@ namespace _6_collections
             {
                 cities["France"] = "Paris";
                 Console.WriteLine(cities["France"]);
-            } 
+            }
             else
             {
                 Console.WriteLine("Le pays n'existe pas!");
@@ -170,7 +172,7 @@ namespace _6_collections
             estRetire = cities.Remove("France");
             Console.WriteLine(cities.ContainsValue("Paris"));
             Console.WriteLine(message);
-            Console.WriteLine("Dans notre dictionnaire il y a " + 
+            Console.WriteLine("Dans notre dictionnaire il y a " +
                 cities.Count + " ville" + (cities.Count > 1 ? "s" : ""));
             Console.WriteLine(cities.First().Value);
             Console.WriteLine(cities.Last().Key);
@@ -208,6 +210,69 @@ namespace _6_collections
             {
                 Console.WriteLine(liste[i]);
             }
+        }
+
+        public static void InsererElements()
+        {
+            const string msgInvit = "Veuillez entrer un nombre ou \"fin\" pour terminer le programme";
+            const string msgErreur = "Entrée invalide!";
+            string entree;
+            int nombre;
+            List<int> liste = new List<int>();
+            do
+            {
+                Console.WriteLine(msgInvit);
+                entree = Console.ReadLine();
+                if (entree.ToLower().Equals("fin"))
+                {
+                    break;
+                }
+                else
+                {
+                    if (int.TryParse(entree, out nombre))
+                    {
+                        liste.Add(nombre);                        
+                    }
+                    else
+                    {
+                        Console.WriteLine(msgErreur);
+                    }
+                }
+            } while (!entree.ToLower().Equals("fin"));
+            // Affichage des statistiques 
+            Console.WriteLine($"La somme des nombres est : {liste.Sum()}\n" +
+                $"La moyenne est : {liste.Average()}\n" +
+                $"Le plus grand nombre est : {liste.Max()}\n" +
+                $"Le plus petit nombre est : {liste.Min()}");
+        }
+
+        public static void AfficherValeurPlusFrequante(int[] nombres)
+        {
+            Dictionary<int, int> dict = new Dictionary<int, int>();
+
+            foreach (var nombre in nombres)
+            {
+                if (dict.ContainsKey(nombre))
+                {
+                    dict[nombre]++;
+                } 
+                else
+                {
+                    dict.Add(nombre, 1);
+                }
+            }
+
+            KeyValuePair<int, int> nbrPlusFreq = dict.ElementAt(0);
+            foreach (var item in dict)
+            {
+                if (item.Value > nbrPlusFreq.Value)
+                {
+                    nbrPlusFreq = item;
+                }
+            }
+
+            Console.WriteLine($"Le nombre le plus fréquent est : {nbrPlusFreq.Key}" +
+                $", il est apparu {nbrPlusFreq.Value} fois.");
         }
     }
 }

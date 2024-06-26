@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\MethodesBoucles\\",
+  "WorkspaceRootPath": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\2_MethodesBoucles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F28ED34E-F2CC-477A-ADC0-13251EC93EE7}|Methodes\\Methodes.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\methodesboucles\\methodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F28ED34E-F2CC-477A-ADC0-13251EC93EE7}|Methodes\\Methodes.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\2_methodesboucles\\methodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F28ED34E-F2CC-477A-ADC0-13251EC93EE7}|Methodes\\Methodes.csproj|solutionrelative:methodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\MethodesBoucles\\Methodes\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\2_MethodesBoucles\\Methodes\\Program.cs",
               "RelativeDocumentMoniker": "Methodes\\Program.cs",
-              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\MethodesBoucles\\Methodes\\Program.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\2_MethodesBoucles\\Methodes\\Program.cs",
               "RelativeToolTip": "Methodes\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T13:37:02.441Z",
               "EditorCaption": ""

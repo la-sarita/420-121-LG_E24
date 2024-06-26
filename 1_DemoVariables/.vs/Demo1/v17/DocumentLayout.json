@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\Demo1\\",
+  "WorkspaceRootPath": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\1_DemoVariables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D40AE1FB-D0DC-4ED6-AE7A-B0EE7A06CA5C}|Demo1\\Demo1.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\demo1\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D40AE1FB-D0DC-4ED6-AE7A-B0EE7A06CA5C}|Demo1\\Demo1.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\1_demovariables\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D40AE1FB-D0DC-4ED6-AE7A-B0EE7A06CA5C}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\Demo1\\Demo1\\bin\\Debug\\net8.0\\Demo1.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\1_DemoVariables\\Demo1\\bin\\Debug\\net8.0\\Demo1.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo1\\bin\\Debug\\net8.0\\Demo1.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Demo1.exe",
-              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\Demo1\\Demo1\\bin\\Debug\\net8.0\\Demo1.exe",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\1_DemoVariables\\Demo1\\bin\\Debug\\net8.0\\Demo1.exe",
               "RelativeDocumentMoniker": "Demo1\\bin\\Debug\\net8.0\\Demo1.exe",
-              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\Demo1\\Demo1\\bin\\Debug\\net8.0\\Demo1.exe",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\1_DemoVariables\\Demo1\\bin\\Debug\\net8.0\\Demo1.exe",
               "RelativeToolTip": "Demo1\\bin\\Debug\\net8.0\\Demo1.exe",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
               "WhenOpened": "2024-05-22T19:34:27.019Z"
@@ -47,11 +47,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\Demo1\\Demo1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\1_DemoVariables\\Demo1\\Program.cs",
               "RelativeDocumentMoniker": "Demo1\\Program.cs",
-              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\Demo1\\Demo1\\Program.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\1_DemoVariables\\Demo1\\Program.cs",
               "RelativeToolTip": "Demo1\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwC8AAAALAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAC8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T15:13:23.164Z",
               "EditorCaption": ""
