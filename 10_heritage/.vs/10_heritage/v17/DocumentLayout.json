@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\10_heritage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB4512-ABE5-489E-9A38-E00E8E2376A0}|10_heritage\\10_heritage.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\10_heritage\\10_heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CB4512-ABE5-489E-9A38-E00E8E2376A0}|10_heritage\\10_heritage.csproj|solutionrelative:10_heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB4512-ABE5-489E-9A38-E00E8E2376A0}|10_heritage\\10_heritage.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\10_heritage\\10_heritage\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CB4512-ABE5-489E-9A38-E00E8E2376A0}|10_heritage\\10_heritage.csproj|solutionrelative:10_heritage\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB4512-ABE5-489E-9A38-E00E8E2376A0}|10_heritage\\10_heritage.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\10_heritage\\10_heritage\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CB4512-ABE5-489E-9A38-E00E8E2376A0}|10_heritage\\10_heritage.csproj|solutionrelative:10_heritage\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB4512-ABE5-489E-9A38-E00E8E2376A0}|10_heritage\\10_heritage.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\10_heritage\\10_heritage\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CB4512-ABE5-489E-9A38-E00E8E2376A0}|10_heritage\\10_heritage.csproj|solutionrelative:10_heritage\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\10_heritage\\10_heritage\\Vehicule.cs",
+              "RelativeDocumentMoniker": "10_heritage\\Vehicule.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\10_heritage\\10_heritage\\Vehicule.cs",
+              "RelativeToolTip": "10_heritage\\Vehicule.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:27:55.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\10_heritage\\10_heritage\\Voiture.cs",
+              "RelativeDocumentMoniker": "10_heritage\\Voiture.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\10_heritage\\10_heritage\\Voiture.cs",
+              "RelativeToolTip": "10_heritage\\Voiture.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:25:51.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\10_heritage\\10_heritage\\Moto.cs",
+              "RelativeDocumentMoniker": "10_heritage\\Moto.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\10_heritage\\10_heritage\\Moto.cs",
+              "RelativeToolTip": "10_heritage\\Moto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:23:04.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\10_heritage\\10_heritage\\Program.cs",
+              "RelativeDocumentMoniker": "10_heritage\\Program.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\10_heritage\\10_heritage\\Program.cs",
+              "RelativeToolTip": "10_heritage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:21:59.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

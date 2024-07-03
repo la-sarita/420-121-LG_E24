@@ -3,11 +3,12 @@
     "",
     "\\4_Tableaux",
     "\\4_Tableaux\\4_Tableaux",
-    "\\6_collections",
     "\\6_collections\\6_collections",
     "\\7_Dictionnaires",
-    "\\7_Dictionnaires\\7_Dictionnaires"
+    "\\7_Dictionnaires\\7_Dictionnaires",
+    "\\9_exercices_divers",
+    "\\9_exercices_divers\\9_exercices_divers"
   ],
-  "SelectedNode": "\\4_Tableaux\\4_Tableaux\\Program.cs",
+  "SelectedNode": "\\9_exercices_divers\\9_exercices_divers\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
