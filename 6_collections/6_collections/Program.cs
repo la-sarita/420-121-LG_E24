@@ -115,7 +115,7 @@ namespace _6_collections
 
             var cities = new Dictionary<string, string> {
                 {"UK", "London, Manchester, Birmingham" },
-                {"USA", "Chocago, NEw York, Washigton" },
+                {"USA", "Chicago, New York, Washigton" },
                 {"India", "Mumbai, New Delhi, Pune" }
             };
             // accès par la clé

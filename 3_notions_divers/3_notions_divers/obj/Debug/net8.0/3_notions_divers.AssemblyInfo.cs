@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3_notions_divers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6346a1525792f212114b5056dfcece07c90810b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51deadcb519a448695a736561bcfd31d4a90a29f")]
 [assembly: System.Reflection.AssemblyProductAttribute("3_notions_divers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3_notions_divers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
