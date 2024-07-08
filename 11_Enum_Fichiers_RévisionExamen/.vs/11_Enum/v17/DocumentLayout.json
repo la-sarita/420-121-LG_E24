@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{327AF9A8-1260-479D-8634-E7115D6D9A86}|RevisionPratique\\RevisionPratique.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\11_enum\\revisionpratique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327AF9A8-1260-479D-8634-E7115D6D9A86}|RevisionPratique\\RevisionPratique.csproj|solutionrelative:revisionpratique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327AF9A8-1260-479D-8634-E7115D6D9A86}|RevisionPratique\\RevisionPratique.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\11_enum\\revisionpratique\\fichier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327AF9A8-1260-479D-8634-E7115D6D9A86}|RevisionPratique\\RevisionPratique.csproj|solutionrelative:revisionpratique\\fichier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327AF9A8-1260-479D-8634-E7115D6D9A86}|RevisionPratique\\RevisionPratique.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\11_enum\\revisionpratique\\dossier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327AF9A8-1260-479D-8634-E7115D6D9A86}|RevisionPratique\\RevisionPratique.csproj|solutionrelative:revisionpratique\\dossier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327AF9A8-1260-479D-8634-E7115D6D9A86}|RevisionPratique\\RevisionPratique.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\11_enum\\revisionpratique\\elementsysteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327AF9A8-1260-479D-8634-E7115D6D9A86}|RevisionPratique\\RevisionPratique.csproj|solutionrelative:revisionpratique\\elementsysteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4FB195-072F-49EE-97AE-5178888A856C}|RevisionExmFin\\RevisionExmFin.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\11_enum\\revisionexmfin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4FB195-072F-49EE-97AE-5178888A856C}|RevisionExmFin\\RevisionExmFin.csproj|solutionrelative:revisionexmfin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672C4EF5-0E97-47C6-890B-62FDF823F7D4}|11_Enum\\11_Enum.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\11_enum\\11_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672C4EF5-0E97-47C6-890B-62FDF823F7D4}|11_Enum\\11_Enum.csproj|solutionrelative:11_enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672C4EF5-0E97-47C6-890B-62FDF823F7D4}|11_Enum\\11_Enum.csproj|c:\\users\\boumsar0\\onedrive - c\u00E9gep marie-victorin\\documents\\aec\\admin_reseau_secur_info\\ete_2024\\complement_programmation\\code_vu_en_classe\\11_enum\\11_enum\\months.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672C4EF5-0E97-47C6-890B-62FDF823F7D4}|11_Enum\\11_Enum.csproj|solutionrelative:11_enum\\months.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dossier.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\RevisionPratique\\Dossier.cs",
+              "RelativeDocumentMoniker": "RevisionPratique\\Dossier.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\RevisionPratique\\Dossier.cs",
+              "RelativeToolTip": "RevisionPratique\\Dossier.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:23:35.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fichier.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\RevisionPratique\\Fichier.cs",
+              "RelativeDocumentMoniker": "RevisionPratique\\Fichier.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\RevisionPratique\\Fichier.cs",
+              "RelativeToolTip": "RevisionPratique\\Fichier.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:17:49.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElementSysteme.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\RevisionPratique\\ElementSysteme.cs",
+              "RelativeDocumentMoniker": "RevisionPratique\\ElementSysteme.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\RevisionPratique\\ElementSysteme.cs",
+              "RelativeToolTip": "RevisionPratique\\ElementSysteme.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:14:40.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\RevisionPratique\\Program.cs",
+              "RelativeDocumentMoniker": "RevisionPratique\\Program.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\RevisionPratique\\Program.cs",
+              "RelativeToolTip": "RevisionPratique\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:14:16.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\RevisionExmFin\\Program.cs",
+              "RelativeDocumentMoniker": "RevisionExmFin\\Program.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\RevisionExmFin\\Program.cs",
+              "RelativeToolTip": "RevisionExmFin\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:51:43.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Months.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\11_Enum\\Months.cs",
+              "RelativeDocumentMoniker": "11_Enum\\Months.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\11_Enum\\Months.cs",
+              "RelativeToolTip": "11_Enum\\Months.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:49:49.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\11_Enum\\Program.cs",
+              "RelativeDocumentMoniker": "11_Enum\\Program.cs",
+              "ToolTip": "C:\\Users\\boumsar0\\OneDrive - C\u00E9gep Marie-Victorin\\Documents\\AEC\\Admin_reseau_secur_info\\Ete_2024\\Complement_programmation\\Code_vu_en_classe\\11_Enum\\11_Enum\\Program.cs",
+              "RelativeToolTip": "11_Enum\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:44:27.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

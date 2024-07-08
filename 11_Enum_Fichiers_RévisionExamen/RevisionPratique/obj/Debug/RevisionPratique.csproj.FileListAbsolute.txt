@@ -1,0 +1,7 @@
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\11_Enum\RevisionPratique\bin\Debug\RevisionPratique.exe.config
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\11_Enum\RevisionPratique\bin\Debug\RevisionPratique.exe
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\11_Enum\RevisionPratique\bin\Debug\RevisionPratique.pdb
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\11_Enum\RevisionPratique\obj\Debug\RevisionPratique.csproj.AssemblyReference.cache
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\11_Enum\RevisionPratique\obj\Debug\RevisionPratique.csproj.CoreCompileInputs.cache
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\11_Enum\RevisionPratique\obj\Debug\RevisionPratique.exe
+C:\Users\boumsar0\OneDrive - Cégep Marie-Victorin\Documents\AEC\Admin_reseau_secur_info\Ete_2024\Complement_programmation\Code_vu_en_classe\11_Enum\RevisionPratique\obj\Debug\RevisionPratique.pdb

@@ -19,8 +19,7 @@ namespace _10_heritage
         }
 
         public Vehicule() : this("", 0, 0)
-        {
-            
+        {      
         }
 
         public void SetVitesse(double tempsAcceleration)
